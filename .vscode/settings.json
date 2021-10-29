@@ -1,0 +1,3 @@
+{
+ "eslint.options": { "overrideConfigFile": "/home/siva/Desktop/nodejs/natours/.eslintrc.json" }
+}
